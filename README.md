@@ -1,3 +1,22 @@
+Business Understanding
+
+**Stakeholder**
+
+Stakeholder yang potensial untuk analisa data ini adalah penyedia layanan taksi. Diharapkan dengan hasil analisa ini, perusahaan dapan meningkatkan kualtias layanan dari taksi yang ada di New York
+
+**Tujuan Analisa**
+
+Memberikan insight terhadap stakeholder untuk membantu dalam strategi atau pembuatan keputusan terkait hal-hal berikut :
+
+- Mengoptimalkan distribusi armada taksi berdasarkan pola permintaan pelanggan sehingga diharapkan menjadi lebih efisien terhadap biaya opersional.
+
+- Memahami dan memenuhi preferensi serta kebutuhan pelanggan agar dapat meningkatkan loyalitas dan kepuasan pelanggan.
+
+- Mengidentifikasi dan mengeksplorasi peluang pendapatan dengan menyesuaikan strategi penetapan harga, promosi, dan layanan tambahan berdasarkan analisis wilayah dan jalur perjalanan sehingga dapat memaksimalkan pendapatan.
+
+- Mengidentifikasi faktor-faktor yang membuat pelanggan memberikan apresiasi lebih seperti tip.
+
+  
 Deskripsi Data
 
 | Features                  | Description                                                                                                                   |
