@@ -32,3 +32,31 @@ Deskripsi Data
 |                           | 1 = Street-hail                                                                                                               |
 |                           | 2 = Dispatch                                                                                                                  |
 |``congestion_surcharge``   | Biaya kemacetan sebesar 2,75 dolar untuk perjalanan dengan taksi kuning dan hijau di Manhattan selatan dari 96th St. Biaya tambahan ini mulai dikenakan pada tahun 2019.                                                                                                                                  |
+
+Analysis Conclusion
+
+`Permintaan dan Preferensi Pelanggan`
+
+- Permintaan taksi paling tinggi di bulan januari terjadi pada hari Rabu, 25 Januari 2023, sedangkan permintaan terendah pada 1 Januari 2023.
+
+- Terdapat pola permintaan pada bulan Januari, Permintaan cenderung naik selama weekdays kemudian menurun ketika memasuki hari weekend.
+
+- Puncak permintaan terjadi di sore hari, sementara permintaan paling rendah di tengah malam hingga pagi hari.
+
+- Manhattan adalah wilayah dengan permintaan tertinggi, sedangkan State Island memiliki permintaan terendah.
+
+- Pelanggan lebih cenderung menggunakan taksi dengan jenis tarif dalam kota dengan trip type street-hail (pemanggilan taksi dipinggir jalan) dan metode pembayaran dominan menggunakan kartu kredit atau tunai.
+
+- Durasi perjalanan yang paling umum adalah antara 11-20 menit dan jarak yang kurang dari 2 mil.
+
+`Distribusi Pendapatan Berdasarkan Waktu dan Wilayah`
+
+- Terdapat rute-rute yang permintaan dan rata-rata tarif yang juga tinggi seperti dari East Harlem North ke Upper West Side North.
+
+- Tarif rata-rata cenderung lebih mahal di tengah malam dan lebih murah di malam hari.
+
+- Brooklyn memiliki tarif rata-rata tertinggi di pagi hari, sementara Staten Island memiliki tarif rata-rata termurah dan tidak memiliki perjalanan sama sekali di malam hari.
+
+- Wilayah Manhattan menampilkan pola harga yang stabil sepanjang hari.
+
+- Tip tertinggi biasanya diberikan untuk rute ke Newark Airport, sementara tip sebagai proporsi dari fare amount tertinggi terjadi di rute menuju Battery Park.
